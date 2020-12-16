@@ -72,9 +72,9 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Home Page</title>
       <h1 style={headingStyles}>
-        Congratulations
+        こんにちは！初めてのGatsby!
         <br />
-        <span style={headingAccentStyles}>— you just made a Gatsby site!</span>
+        <span style={headingAccentStyles}>— 保存すると変わりますね!</span>
         <span role="img" aria-label="Party popper emojis">
           🎉🎉🎉
         </span>
